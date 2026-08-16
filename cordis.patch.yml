@@ -1,0 +1,5 @@
+# dsh-search bundle: host-half only — mounts the web_search_free tool
+# (Bing RSS primary, DuckDuckGo fallback; no API keys required).
+- insert:
+    - id: dsh-search
+      name: dsh-search
